@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,58596,e=>{"use strict";e.s(["reachGoal",0,function(e){let t=Number("");t&&window.ym?.(t,"reachGoal",e)}])},84938,e=>{"use strict";var t=e.i(71645),o=e.i(58596);e.s(["LeadGoal",0,function(){return(0,t.useEffect)(()=>(0,o.reachGoal)("lead_submit"),[]),null}])}]);
